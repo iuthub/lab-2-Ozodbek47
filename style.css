@@ -1,0 +1,52 @@
+body.homepage {
+ background-color: silver;
+ height: 95%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+h1 {
+  font-family: calibri;
+  box-shadow: 2px 2px 50px 5px grey,
+  inset 0px 0px 30px 10px white;
+  font-size: 30pt;
+  text-align: center;
+  padding: 20px;
+  background-color: darkgrey;
+  border-radius: 20px;
+  color: white;
+}
+
+h2{
+  text-align: left;
+  font-family: arial black;
+  font-size: 13pt;
+  color: green;
+  font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+p{
+font-size: 24px;
+text-align: center;
+color: red;
+font-family: arial;
+}
+
+li{
+font-family: arial;
+}
+
+img{
+  box-shadow: 2px 2px 50px 5px grey;
+  border-radius: 30px;
+}
